@@ -1,5 +1,5 @@
 # So you wanna help build Wonder, eh?
-You have come to the right place.
+You have come to the right place, then!
 
 ##Introduction
 The Wonder source will be contributable in several areas:
