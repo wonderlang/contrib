@@ -4,7 +4,9 @@ You have come to the right place, then!
 ## Introduction
 The Wonder source will be contributable in several areas:
 
-- `interpreter.js`: The core interpreter. Most of the work will probably be done here.
+- `interpreter.js`: The core interpreter.
+    - `cm.js`: Standard library.
+    - `vs.js`: Predefined variables.
 - `pm.js`: The source for Delishusly.
 - `wonder.pegjs`: The parser.
 
